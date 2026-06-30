@@ -1,0 +1,16 @@
+{
+  "name": "Gate Register",
+  "short_name": "GateReg",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1c2620",
+  "theme_color": "#1c2620",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
